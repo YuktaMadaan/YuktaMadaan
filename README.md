@@ -1,11 +1,11 @@
 <h3 align="left">
-Hi 👋! My name is Yukta, and I'm an MCA Student & DevOps Enthusiast 
+Hi 👋! My name is Yukta, and I'm an MCA Student & DevOps / Cloud Enthusiast from Sangrur, Punjab 🇮🇳
 </h3>
 
 ###
 
-<img align="right" height="180" 
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" height="190" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ###
 
@@ -52,7 +52,10 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yuktamadaan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yukta%20Madaan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yukta28madaan2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yukta28madaan2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
