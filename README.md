@@ -5,7 +5,7 @@ Hi 👋! My name is Yukta, and I'm an MCA Student & DevOps / Cloud Enthusiast fr
 ###
 
 <img align="right" height="190" 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
 
 ###
 
